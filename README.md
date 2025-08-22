@@ -4,29 +4,23 @@ A modern full-stack Django web application with an interactive Leaflet.js mappin
 
 <h2>🧰 Features</h2>
 
-Django web framework (backend)
+- Django web framework (backend)
 
-Leaflet.js interactive mapping system (frontend)
+- Leaflet.js interactive mapping system (frontend)
 
-SQLite or PostgreSQL (optionally MongoDB)
+- SQLite
 
-Add, edit, and display map markers dynamically
+- Add, edit, and display map markers dynamically
 
-Customizable map tiles & layers
+- Customizable map tiles & layers
 
-Optional Docker containerization
-
-Hardened with OWASP security practices
-
-🧑‍💻 Getting Started (Run from Source)
+- Docker containerization (later addition)
 
 <h2>📋 Prerequisites</h2>
 
-Python 3.8+
-
-Git
-
-pip
+- Python 3.8+
+- Git
+- pip
 
 <h2>🔧 Installation Steps</h2>
 # Clone the repository

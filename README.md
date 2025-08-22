@@ -1,12 +1,6 @@
-📦 GeoMap Django Web Application
+#H1 📦 GeoMap Django Web Application
 
 A modern full-stack Django web application with an interactive Leaflet.js mapping system, designed for geolocation, marker placement, and customizable map layers. Built with Django, JavaScript, and Leaflet, it supports optional database backends and strong security practices.
-
-🌐 Live Demo
-
-✅ Try it live: https://your-demo-site.com
-
-(Replace this URL with your deployed site if available.)
 
 🧰 Features
 
